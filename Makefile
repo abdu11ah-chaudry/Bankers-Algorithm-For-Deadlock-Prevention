@@ -2,7 +2,7 @@ CC=gcc
 
 CFLAGS=-Wall
 
-SRC=src/main.c src/banker.c src/logger.c src/utils.c
+SRC=solution.c banker.c logger.c utils.c
 
 OUT=banker
 
